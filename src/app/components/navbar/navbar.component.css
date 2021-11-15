@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #FFF;
+}
+.dropdown{
+  align-items: right;
+  background-color: transparent;
+}
+.btn.btn-secondary{
+  background-color: #FFF;
+}

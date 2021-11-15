@@ -1,0 +1,86 @@
+.all{
+  margin-top:10%;
+}
+
+.sidebar[data-color=danger] li.active > a{
+  background-color: none;
+}
+
+.titulo{
+  font-size:50px;
+  color: #00bcd4;
+  font-weight: 800;
+  line-height: normal;
+  padding: 10px;
+}
+
+.espacioCard{
+  margin-top:15%;
+}
+
+.tituloDos{
+  font-size:35px;
+  color: rgb(0, 93, 199);
+  font-weight: 800;
+  line-height: normal;
+  background-color:rgba(255, 255, 255, 0.618);
+  padding: 10px 0px;
+}
+.texto{
+  font-size: 15px;
+  margin: 10px;
+}
+.imagen {
+  background-image: url("../../assets/img/resource-1.png");
+  background-repeat: no-repeat;
+}
+
+.ubicacionCuadro {
+  margin-top: 50%;
+  justify-content: flex-end;
+}
+.lineCard {
+  border-left: 5px solid rgb(0, 93, 199);
+}
+
+.subtitulo{
+  font-size:20px;
+  color: rgb(0, 93, 199);
+  font-weight: 600;
+  line-height: normal;
+  padding: 10px 0px;
+
+}
+
+.card-category{
+  font-size:12px;
+}
+
+.botonTodosServ{
+  background-color:rgb(210, 224, 247);
+  color: rgb(0, 93, 199);
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar {
+  padding: 0px;
+}
+
+.container-fluid{
+  padding: 0px;
+}
+
+form{
+  padding: 0px;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+  padding: 10px;
+  margin: 0px;
+}
+
+.btn-outline-success{
+  padding: 5px 20px;
+}
+

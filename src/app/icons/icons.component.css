@@ -1,0 +1,17 @@
+.titulos{
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+
+}
+.textos{
+  font-size: 12px;
+}
+
+.card{
+  padding: 20px 10px 50px 10px;
+}
+
+.lineaCuadro{
+  border-right: 1px solid #000;
+}

@@ -1,0 +1,49 @@
+.titulos{
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.card{
+  padding: 0px;
+  margin: 10px;
+}
+.bodyCard{
+  padding: 5px;
+  margin: 5px;
+  font-size: 8px;
+  line-height: normal;
+  text-align: center;  
+}
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: transparent;
+  border: none;
+}
+
+.PrincipalCard{
+  max-height: 200px;
+}
+.articulosSize{
+  max-height: 300px;
+}
+.tituloArt{
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.textos{
+  font-size: 12px;
+}
+.carousel{
+  max-height: 200px;
+}
+
+img{
+  max-height:200px;
+  object-fit: cover;  
+}
+.circuloImg{
+  border-radius: 50%;
+}
